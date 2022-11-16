@@ -3,14 +3,14 @@
 
 # for html
 title: anewProj
-logo: notebooks/figures/logo_png.png
+logo: figures/logo_png.png
 
 # for pdf/latex
 project: anewProj
 author: Carlos
 sphinx:
   config:
-    latex_logo: 'notebooks/figures/logo_jpg2300.jpg'
+    latex_logo: 'figures/logo_jpg2300.jpg'
   extra_extensions:
     # - sphinx_inline_tabs
 
@@ -27,7 +27,7 @@ latex:
 
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
-  - references/references.bib
+  # - references/references.bib
 
 # Information about where the book exists on the web
 repository:
