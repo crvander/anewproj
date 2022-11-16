@@ -12,7 +12,7 @@ sphinx:
   config:
     latex_logo: 'notebooks/figures/logo_jpg2300.jpg'
   extra_extensions:
-    - sphinx_inline_tabs
+    # - sphinx_inline_tabs
 
 
 # Force re-execution of notebooks on each build.
