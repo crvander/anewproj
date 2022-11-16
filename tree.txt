@@ -1,0 +1,390 @@
+Folder PATH listing for volume Local Disk
+Volume serial number is A420-7705
+C:.
+|   .env
+|   .gitignore
+|   .readthedocs.yaml
+|   intro.md
+|   LICENSE
+|   Makefile
+|   make_files.py
+|   README.md
+|   requirements.txt
+|   requirements_jb.txt
+|   setup.py
+|   test_environment.py
+|   tox.ini
+|   tree.txt
+|   _config.yml
+|   _toc.yml
+|   
++---data
+|   +---external
+|   |       .gitkeep
+|   |       
+|   +---interim
+|   |       .gitkeep
+|   |       
+|   +---processed
+|   |       .gitkeep
+|   |       
+|   \---raw
+|           .gitkeep
+|           
++---models
+|       .gitkeep
+|       
++---notebooks
+|   |   .gitkeep
+|   |   markdown-notebooks.md
+|   |   markdown.md
+|   |   notebooks.ipynb
+|   |   
+|   \---figures
+|           logo_2.png
+|           logo_brain.png
+|           logo_jpg.jpg
+|           logo_jpg2.jpg
+|           logo_jpg2300.jpg
+|           logo_jpg300.jpg
+|           logo_png.png
+|           
++---references
+|       references.bib
+|       
++---reports
+|   |   .gitkeep
+|   |   
+|   \---figures
+|           .gitkeep
+|           
++---src
+|   |   __init__.py
+|   |   
+|   +---data
+|   |       .gitkeep
+|   |       make_dataset.py
+|   |       __init__.py
+|   |       
+|   +---features
+|   |       .gitkeep
+|   |       build_features.py
+|   |       __init__.py
+|   |       
+|   +---models
+|   |       .gitkeep
+|   |       predict_model.py
+|   |       train_model.py
+|   |       __init__.py
+|   |       
+|   \---visualization
+|           .gitkeep
+|           visualize.py
+|           __init__.py
+|           
+\---_build
+    +---.doctrees
+    |   |   environment.pickle
+    |   |   glue_cache.json
+    |   |   intro.doctree
+    |   |   README.doctree
+    |   |   
+    |   \---notebooks
+    |           markdown-notebooks.doctree
+    |           markdown.doctree
+    |           notebooks.doctree
+    |           
+    +---html
+    |   |   .buildinfo
+    |   |   genindex.html
+    |   |   index.html
+    |   |   intro.html
+    |   |   objects.inv
+    |   |   README.html
+    |   |   search.html
+    |   |   searchindex.js
+    |   |   
+    |   +---notebooks
+    |   |       markdown-notebooks.html
+    |   |       markdown.html
+    |   |       notebooks.html
+    |   |       
+    |   +---reports
+    |   |       notebooks.log
+    |   |       
+    |   +---_sources
+    |   |   |   intro.md
+    |   |   |   README.md
+    |   |   |   
+    |   |   \---notebooks
+    |   |           markdown-notebooks.ipynb
+    |   |           markdown-notebooks.md
+    |   |           markdown.md
+    |   |           notebooks.ipynb
+    |   |           
+    |   +---_sphinx_design_static
+    |   |       design-style.b7bb847fb20b106c3d81b95245e65545.min.css
+    |   |       design-tabs.js
+    |   |       
+    |   \---_static
+    |       |   basic.css
+    |       |   check-solid.svg
+    |       |   clipboard.min.js
+    |       |   copy-button.svg
+    |       |   copybutton.css
+    |       |   copybutton.js
+    |       |   copybutton_funcs.js
+    |       |   design-style.b7bb847fb20b106c3d81b95245e65545.min.css
+    |       |   design-tabs.js
+    |       |   doctools.js
+    |       |   documentation_options.js
+    |       |   file.png
+    |       |   jquery-3.5.1.js
+    |       |   jquery.js
+    |       |   language_data.js
+    |       |   logo_png.png
+    |       |   minus.png
+    |       |   mystnb.css
+    |       |   plus.png
+    |       |   pygments.css
+    |       |   sbt-webpack-macros.html
+    |       |   searchtools.js
+    |       |   sphinx-thebe.css
+    |       |   sphinx-thebe.js
+    |       |   tabs.css
+    |       |   tabs.js
+    |       |   togglebutton.css
+    |       |   togglebutton.js
+    |       |   underscore-1.13.1.js
+    |       |   underscore.js
+    |       |   webpack-macros.html
+    |       |   
+    |       +---images
+    |       |       logo_binder.svg
+    |       |       logo_colab.png
+    |       |       logo_deepnote.svg
+    |       |       logo_jupyterhub.svg
+    |       |       
+    |       +---locales
+    |       |   +---ar
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---bg
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---bn
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ca
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---cs
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---da
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---de
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---el
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---eo
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---es
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---et
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---fi
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---fr
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---hr
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---id
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---it
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---iw
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ja
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ko
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---lt
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---lv
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ml
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---mr
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ms
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---nl
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---no
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---pl
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---pt
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ro
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ru
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---sk
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---sl
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---sr
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---sv
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ta
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---te
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---tg
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---th
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---tl
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---tr
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---uk
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---ur
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---vi
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   +---zh_CN
+    |       |   |   \---LC_MESSAGES
+    |       |   |           booktheme.po
+    |       |   |           
+    |       |   \---zh_TW
+    |       |       \---LC_MESSAGES
+    |       |               booktheme.po
+    |       |               
+    |       +---scripts
+    |       |       pydata-sphinx-theme.js
+    |       |       sphinx-book-theme.js
+    |       |       sphinx-book-theme.js.map
+    |       |       
+    |       +---styles
+    |       |       pydata-sphinx-theme.css
+    |       |       sphinx-book-theme.css
+    |       |       theme.css
+    |       |       
+    |       \---vendor
+    |           \---fontawesome
+    |               \---5.13.0
+    |                   |   LICENSE.txt
+    |                   |   
+    |                   +---css
+    |                   |       all.min.css
+    |                   |       
+    |                   \---webfonts
+    |                           fa-brands-400.eot
+    |                           fa-brands-400.svg
+    |                           fa-brands-400.ttf
+    |                           fa-brands-400.woff
+    |                           fa-brands-400.woff2
+    |                           fa-regular-400.eot
+    |                           fa-regular-400.svg
+    |                           fa-regular-400.ttf
+    |                           fa-regular-400.woff
+    |                           fa-regular-400.woff2
+    |                           fa-solid-900.eot
+    |                           fa-solid-900.svg
+    |                           fa-solid-900.ttf
+    |                           fa-solid-900.woff
+    |                           fa-solid-900.woff2
+    |                           
+    \---jupyter_execute
+        \---notebooks
+                markdown-notebooks.ipynb
+                markdown-notebooks.py
+                notebooks.ipynb
+                notebooks.py
+                
